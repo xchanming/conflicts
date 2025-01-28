@@ -4,11 +4,10 @@
     "description": "Cicada 6 conflicting packages",
     "license": "MIT",
     "require": {
-        "cicada-ag/core": ">=6.6.6.0"
+        "cicada-ag/core": ">=6.6.10.0"
     },
     "conflict": {
         "phenx/php-font-lib": "<0.5.5",
-        "twig/twig": ">=3.15.0",
         "symfony/var-exporter": "v6.3.9 || v6.4.0",
         "symfony/notifier": "v5.3.8",
         "symfony/symfony": "*",
