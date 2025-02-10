@@ -1,7 +1,7 @@
 {
     "name": "xchanming/conflicts",
     "type": "metapackage",
-    "description": "Cicada 6 conflicting packages",
+    "description": "XChanMing 6 conflicting packages",
     "license": "MIT",
     "require": {
         "xchanming/core": ">=6.6.10.0"
