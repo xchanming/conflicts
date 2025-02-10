@@ -4,7 +4,7 @@
     "description": "Cicada 6 conflicting packages",
     "license": "MIT",
     "require": {
-        "cicada-ag/core": ">=6.6.10.0"
+        "xchanming/core": ">=6.6.10.0"
     },
     "conflict": {
         "phenx/php-font-lib": "<0.5.5",
